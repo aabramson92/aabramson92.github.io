@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Project Benson Analysis
 ---
 
 Recently, we did an analysis for WTWY, a non-profit organization focused on improving the involvement of women in the tech sector, to determine which subway stations would be the best to conduct outreach at to provide free tickets for a gala in support of their organization in the early summer and to spread information about their organization.
@@ -15,12 +15,12 @@ We then found the subway stations that were located in each of these 8 ZIP Codes
 
 With the information regarding the best stations to target, we then determined which day of the week was the best to conduct outreach to reach our target audience. Analyzing the data, we found that the best days of the week to conduct outreach were Tuesday through Thursday, as those were the days with the highest number of entries and exits combined out of all the days of the week. The heat map below shows the results of our analysis of the data.
 
-!(Traffic for the top 10 stations.png)
+![Heatmap of daily entrances](Traffic for top 10 stations.png)
 
 Finally, with the locations and days of the week, the last piece of information we needed for our recommendation is which weeks in the time period before and during the early summer would be the best to conduct the outreach in. With an analysis of total entries and exits for each week in the time period where data was collected, we found a steady level of ridership in the time period, except for the time period around the Memorial Day and Fourth of July holiday weeks. The heat map below shows the levels of entries and exits in the study time period and the decreases around the holiday weeks.
 
-!(heatmap_fig_final.png)
+![Heatmap of weekly entrances](heatmap_fig_final.png)
 
 With all of this analysis complete, we presented our first stage recommendation, that the outreach be conducted in a target area be between the 59th Street and 14th Street in Manhattan, that the outreach be conducted between Tuesday and Thursday in the week, and that the outreach not be conducted around the summer holidays.
 
-For our second stage of analysis, we want to focus on a more granular level of data for the entry and exit data. Firstly, we would analyze the combined number of entries and exits at each individual station entrance to determine where the optimal locations to conduct outreach by the targeted subway stops would be. In addition, we would take into account the distance between subway entrances as it may be more efficient to conduct outreach at the same station, but at entrances located 5 blocks from each other versus at two different stations that are only 1 block apart. Finally, we would focus on the exact times where the station entrances are the most used and determine which time of the day would be ideal to conduct outreach.
+For our second stage of analysis, we will focus on a more granular level of data for the entry and exit data. Firstly, we will analyze the combined number of entries and exits at each individual station entrance to determine where the optimal locations to conduct outreach by the targeted subway stops would be. In addition, we will take into account the distance between subway entrances as it may be more efficient to conduct outreach at the same station, but at entrances located 5 blocks from each other versus at two different stations that are only 1 block apart. Finally, we will focus on the exact times where the station entrances are the most used and determine which time of the day would be ideal to conduct outreach.
