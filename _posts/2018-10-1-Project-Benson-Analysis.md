@@ -15,11 +15,11 @@ We then found the subway stations that were located in each of these 8 ZIP Codes
 
 With the information regarding the best stations to target, we then determined which day of the week was the best to conduct outreach to reach our target audience. Analyzing the data, we found that the best days of the week to conduct outreach were Tuesday through Thursday, as those were the days with the highest number of entries and exits combined out of all the days of the week. The heat map below shows the results of our analysis of the data.
 
-![Heatmap of daily entrances](aabramson92.github.io/images/Traffic for top 10 stations.png)
+![Heatmap of daily entrances](https://aabramson92.github.io/images/Traffic for top 10 stations.png)
 
 Finally, with the locations and days of the week, the last piece of information we needed for our recommendation is which weeks in the time period before and during the early summer would be the best to conduct the outreach in. With an analysis of total entries and exits for each week in the time period where data was collected, we found a steady level of ridership in the time period, except for the time period around the Memorial Day and Fourth of July holiday weeks. The heat map below shows the levels of entries and exits in the study time period and the decreases around the holiday weeks.
 
-![Heatmap of weekly entrances](aabramson92.github.io/images/heatmap_fig_final.png)
+![Heatmap of weekly entrances](https://aabramson92.github.io/images/heatmap_fig_final.png)
 
 With all of this analysis complete, we presented our first stage recommendation, that the outreach be conducted in a target area be between the 59th Street and 14th Street in Manhattan, that the outreach be conducted between Tuesday and Thursday in the week, and that the outreach not be conducted around the summer holidays.
 
